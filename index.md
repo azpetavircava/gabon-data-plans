@@ -71,3 +71,10 @@ layout: default
 
 　　**你有没有遇到过**，在一个陌生的国家，因为网络问题而手足无措的时刻？希望这份2025年的加蓬网络指南，能帮你提前扫清障碍，让旅程更多一份从容。网络通了，世界也就大了。
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Gabon SIM 卡购买与激活指南](https://faciylike.github.io/gabon-sim-guides)
